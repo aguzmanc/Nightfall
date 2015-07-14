@@ -45,8 +45,8 @@ public class PlaceActivator : MonoBehaviour
 
 		// quick fix!
 		float MIN_DISTANCE = 100.0f;
-		if (isThisActivator)
-			Debug.Log (distanceToPlayer);
+//		if (isThisActivator)
+//			Debug.Log (distanceToPlayer);
 
 		if (distanceToPlayer <= MIN_DISTANCE && IsThisPlaceSearchingTo) {
 			_audio.volume = 1.0f - (distanceToPlayer / MIN_DISTANCE);

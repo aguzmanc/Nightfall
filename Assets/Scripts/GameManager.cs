@@ -102,6 +102,9 @@ public class GameManager : MonoBehaviour
 	{
 		_currentPlaceIndex++;
 
+		if (_currentPlaceIndex == 3)
+			NightFall.Instance.StartFalling = true;
+
 		UIManager.Instance.HideTimeLeft ();
 
 		if (_currentPlaceIndex >= Places.Length) {
