@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="107" Column="36" />
+      <File FileName="Assets/Scripts/PlaceActivator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouristicPlace.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="24" Column="20" />
+      <File FileName="Assets/Scripts/Flashing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NightFall.cs" Line="24" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
